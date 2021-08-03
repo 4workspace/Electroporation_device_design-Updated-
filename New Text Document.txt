@@ -1,0 +1,4 @@
+*Periyot(T) (Pulse/Saykil uzunlugu - birimi saniye)
+*Pulse/darbe sayisi
+*Duty Cycle orani -> Duty_cycle = (Tw/T)*100
+Tw: High duty cycle

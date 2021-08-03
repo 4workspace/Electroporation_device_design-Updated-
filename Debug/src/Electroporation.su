@@ -1,0 +1,7 @@
+Electroporation.c:15:6:GPIO_Config	8	static
+Electroporation.c:39:6:Set_Param	8	static
+Electroporation.c:109:6:Volt_800V	16	static
+Electroporation.c:121:6:Volt_1200V	16	static
+Electroporation.c:133:6:Volt_1500V	16	static
+Electroporation.c:145:6:Discharge_Cap	8	static
+Electroporation.c:152:6:e_delay	16	static
